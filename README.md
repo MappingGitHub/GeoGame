@@ -1,7 +1,7 @@
 # GeoGame
 🌍🎮 Welcome, fellow open source enthusiasts! 🌐
 
-GeoGame is an interactive and educational  built with Python and Tkinter Graphical User interfaces (GUIs), aims to provide a fun and interactive way for participants to learn about general geographic topics on Los Angeles County GIS DAY 2024.
+GeoGame is an interactive and educational game built with Python and Tkinter Graphical User interfaces (GUIs), aims to provide a fun and interactive way for participants to learn about general geographic topics on Los Angeles County GIS DAY 2024.
 GeoGame, our exciting project for Los Angeles County GIS Day 2024, is calling for your expertise and passion for coding. This educational game, built with Python and Tkinter Graphical User interfaces (GUIs), aims to provide a fun and interactive way for participants to learn about general geographic topics. GeoGame should allow players to register their contact information, engage in a multi-answer question game about general geographic topics, and compete for a chance to win exciting prizes in a raffle at the end of the day.
 
 
